@@ -5,4 +5,5 @@
 
 Вот тот символ, который мне нравится:
 
-![Инь-янь](https://i.pinimg.com/originals/a6/f9/9a/a6f99ac7e2294f1958a8716bc901ac32.jpg)
+![Инь-ян](./Pic.jpg)
+
