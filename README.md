@@ -1,9 +1,10 @@
-### Обо мне
+### About
 
-Привет, меня зовут Александр.
-Мне 42 года
+Hi! A am Alexander.
 
-Вот тот символ, который мне нравится:
+A am 42
 
-![Инь-ян](./Pic.jpg)
+Here is my favourite symbol:
+
+![InYan](./Pic.jpg)
 
